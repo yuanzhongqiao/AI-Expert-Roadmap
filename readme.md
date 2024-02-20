@@ -1,105 +1,81 @@
-<p align="center">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
   <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap">
-    <img src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c32232ecb585fcc5c4645e1_icon_machine-learning.svg" alt="Developer Roadmap" width="96" height="96">
+    <img src="https://camo.githubusercontent.com/c19cb912d259c26deeeab27d80d60806b2c95564fdfa0081ded88b4629d445c8/68747470733a2f2f75706c6f6164732d73736c2e776562666c6f772e636f6d2f3538653661326232356332383233306433363734383761642f3563333232333265636235383566636335633436343565315f69636f6e5f6d616368696e652d6c6561726e696e672e737667" alt="开发者路线图" width="96" height="96" data-canonical-src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c32232ecb585fcc5c4645e1_icon_machine-learning.svg" style="max-width: 100%;">
   </a>
-  <h2 align="center">i.am.ai<br>AI Expert Roadmap</h2>
-  <p align="center">Roadmap to becoming an Artificial Intelligence Expert in 2022</p>
-  <p align="center">
-      <a href="https://twitter.com/home?status=https://i.am.ai/roadmap Roadmap to becoming an Artificial Intelligence Expert in 2022" target="_blank"><img src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://i.am.ai/roadmap&title=&summary=Roadmap to becoming an Artificial Intelligence Expert in 2022&source=" target="_blank"><img src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&logoColor=white" style="display: inherit;"/></a>
-      <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap"><img src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg" style="display: inherit;"/></a>
-      <a href="https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Badge" target="_blank"><img alt="AMAI GmbH" src="https://img.shields.io/badge/Author-AMAI GmbH-blue.svg" style="display: inherit;"/></a>
-<a href="https://opensource.org/licenses/MIT/" target="_blank"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg" style="display: inherit;"/></a>
+  </p><h2 align="center" tabindex="-1" dir="auto"><a id="user-content-iamaiai-expert-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#iamaiai-expert-roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">i.am.ai</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能专家路线图</font></font></h2>
+  <p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 成为人工智能专家的路线图</font></font></p>
+  <p align="center" dir="auto">
+      <a href="https://twitter.com/home?status=https://i.am.ai/roadmap Roadmap to becoming an Artificial Intelligence Expert in 2022" rel="nofollow"><img src="https://camo.githubusercontent.com/eb27de2e1a8334abefab702a4eb5b45de117604e8a2659323fa1f727be239b06/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74776565742d626c75652e7376673f6c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/tweet-blue.svg?logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://i.am.ai/roadmap&amp;title=&amp;summary=Roadmap to becoming an Artificial Intelligence Expert in 2022&amp;source=" rel="nofollow"><img src="https://camo.githubusercontent.com/dac1a93773bc04f59f05bdee876361680386c16eaf4ba9fa01d959eb20063b6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f73742d626c75652e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/post-blue.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+      <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap"><img src="https://camo.githubusercontent.com/1dd7a6607c1f79c4bd366d89ef444f48af5cf0c6863f824fb82de750a4c82436/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526f61646d61702d323032322d79656c6c6f77677265656e2e737667" data-canonical-src="https://img.shields.io/badge/Roadmap-2022-yellowgreen.svg" style="max-width: 100%;"></a>
+      <a href="https://am.ai?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+Badge" rel="nofollow"><img alt="阿迈有限公司" src="https://camo.githubusercontent.com/e4bd4790065bb80106339ac41af4d9ca0a70918d07b8f4f044308b0e7a611d17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417574686f722d414d414920476d62482d626c75652e737667" data-canonical-src="https://img.shields.io/badge/Author-AMAI GmbH-blue.svg" style="max-width: 100%;"></a>
+<a href="https://opensource.org/licenses/MIT/" rel="nofollow"><img alt="麻省理工学院许可证" src="https://camo.githubusercontent.com/6552afb9038154d801c50b6e55a76db78a6787a8d6e2b5252a44864503c52887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667" data-canonical-src="https://img.shields.io/badge/License-MIT-blue.svg" style="max-width: 100%;"></a>
   </p>
   <br>
-</p>
-
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a data scientist, machine learning or an AI expert. We made these charts for our new employees to make them AI Experts but we wanted to share them here to help the community.
-
-If you are interested to become an AI EXPERT at [AMAI](https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Become+Expert) in Germany, or you want to [hire an AI Expert](https://am.ai?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Hire+Expert), please say [hi@am.ai](mailto:hi@am.ai).
-
-## Note
-
-👉 An **interactive version with links to follow** about each bullet of the list can be found at [i.am.ai/roadmap](https://i.am.ai/roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Interactive) 👈
-
-To receive updates [star :star:](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/stargazers) and watch :eyes: the [GitHub Repo](https://github.com/AMAI-GmbH/AI-Expert-Roadmap/) to get notified, when we add new content to stay on the top of the most recent research.
-
-Follow our [AI Newsletter](https://i.am.ai/newsletter?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Newsletter) to stay up to date with the latest developments in AI. We cover new use cases and research topics.
-
-## Disclaimer
-
-The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
-
-## Introduction
-
-<p align="center">
-  <a href="https://i.am.ai/roadmap#introduction?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Introduction" target="_blank">
-      <img src="./images/intro.svg"/>
+<p dir="auto"></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下面的一组图表展示了成为数据科学家、机器学习或人工智能专家可以采取的路径以及想要采用的技术。</font><font style="vertical-align: inherit;">我们为新员工制作了这些图表，让他们成为人工智能专家，但我们想在这里分享它们以帮助社区。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有兴趣成为</font><font style="vertical-align: inherit;">德国</font></font><a href="https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+Become+Expert" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AMAI的 AI 专家，或者您想</font></font></a><font style="vertical-align: inherit;"></font><a href="https://am.ai?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+Hire+Expert" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">聘请 AI 专家</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，请发送</font></font><a href="mailto:hi@am.ai"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">hi@am.ai</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-note" class="anchor" aria-hidden="true" tabindex="-1" href="#note"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">笔记</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👉可以在</font><a href="https://i.am.ai/roadmap?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+Interactive" rel="nofollow"><font style="vertical-align: inherit;">i.am.ai/roadmap</font></a><font style="vertical-align: inherit;">找到一个交互式版本，其中包含有关列表中每个项目符号</font><font style="vertical-align: inherit;">的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">链接</font></font></strong><font style="vertical-align: inherit;"></font><a href="https://i.am.ai/roadmap?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+Interactive" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要接收更新，请</font></font><a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap/stargazers"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">星 ⭐</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并观看 👀 </font></font><a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 存储库</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，以便在我们添加新内容以掌握最新研究的前沿时收到通知。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关注我们的</font></font><a href="https://i.am.ai/newsletter?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+Newsletter" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能新闻通讯</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解人工智能的最新发展。</font><font style="vertical-align: inherit;">我们涵盖新的用例和研究主题。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-disclaimer" class="anchor" aria-hidden="true" tabindex="-1" href="#disclaimer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免责声明</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这些路线图的目的是让您了解情况，并在您对接下来要学习什么感到困惑时为您提供指导，而不是鼓励您选择时髦的东西。</font><font style="vertical-align: inherit;">您应该对为什么一种工具比另一种工具更适合某些情况有一些了解，并记住时髦并不意味着最适合这项工作。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-introduction" class="anchor" aria-hidden="true" tabindex="-1" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2>
+<p align="center" dir="auto">
+  <a href="https://i.am.ai/roadmap#introduction?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+Introduction" rel="nofollow">
+      <img src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/intro.svg" style="max-width: 100%;">
   </a>
 </p>
-
-## Fundamentals
-
-<p align="center">
-  <a href="https://i.am.ai/roadmap#fundamentals?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+Fundamentals" target="_blank">
-      <img src="./images/fundamentals.svg"/>
+<h2 tabindex="-1" dir="auto"><a id="user-content-fundamentals" class="anchor" aria-hidden="true" tabindex="-1" href="#fundamentals"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基础知识</font></font></h2>
+<p align="center" dir="auto">
+  <a href="https://i.am.ai/roadmap#fundamentals?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+Fundamentals" rel="nofollow">
+      <img src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/fundamentals.svg" style="max-width: 100%;">
   </a>
 </p>
-
-## Data Science Roadmap
-
-<p align="center">
-  <a href="https://i.am.ai/roadmap#data-science-roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+DataScience" target="_blank">
-      <img src="./images/datascience.svg"/>
+<h2 tabindex="-1" dir="auto"><a id="user-content-data-science-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#data-science-roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据科学路线图</font></font></h2>
+<p align="center" dir="auto">
+  <a href="https://i.am.ai/roadmap#data-science-roadmap?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+DataScience" rel="nofollow">
+      <img src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/datascience.svg" style="max-width: 100%;">
   </a>
 </p>
-
-## Machine Learning Roadmap
-
-<p align="center">
-  <a href="https://i.am.ai/roadmap#machine-learning-roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+MachineLearning" target="_blank">
-      <img src="./images/machine_learning.svg"/>
+<h2 tabindex="-1" dir="auto"><a id="user-content-machine-learning-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#machine-learning-roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习路线图</font></font></h2>
+<p align="center" dir="auto">
+  <a href="https://i.am.ai/roadmap#machine-learning-roadmap?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+MachineLearning" rel="nofollow">
+      <img src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/machine_learning.svg" style="max-width: 100%;">
   </a>
 </p>
-
-## Deep Learning Roadmap
-
-<p align="center">
-  <a href="https://i.am.ai/roadmap#deep-learning-roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+DeepLearning" target="_blank">
-      <img src="./images/deep_learning.svg"/>
+<h2 tabindex="-1" dir="auto"><a id="user-content-deep-learning-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#deep-learning-roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习路线图</font></font></h2>
+<p align="center" dir="auto">
+  <a href="https://i.am.ai/roadmap#deep-learning-roadmap?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+DeepLearning" rel="nofollow">
+      <img src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/deep_learning.svg" style="max-width: 100%;">
   </a>
 </p>
-
-## Data Engineer Roadmap
-
-<p align="center">
-  <a href="https://i.am.ai/roadmap#data-engineer-roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+DataEngineer" target="_blank">
-      <img src="./images/data_engineer.svg"/>
+<h2 tabindex="-1" dir="auto"><a id="user-content-data-engineer-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#data-engineer-roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据工程师路线图</font></font></h2>
+<p align="center" dir="auto">
+  <a href="https://i.am.ai/roadmap#data-engineer-roadmap?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+DataEngineer" rel="nofollow">
+      <img src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/data_engineer.svg" style="max-width: 100%;">
   </a>
 </p>
-
-## Big Data Engineer Roadmap
-
-<p align="center">
-  <a href="https://i.am.ai/roadmap#big-data-engineer-roadmap?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+BigDataEngineer" target="_blank">
-      <img src="./images/big_data_engineer.svg"/>
+<h2 tabindex="-1" dir="auto"><a id="user-content-big-data-engineer-roadmap" class="anchor" aria-hidden="true" tabindex="-1" href="#big-data-engineer-roadmap"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大数据工程师路线图</font></font></h2>
+<p align="center" dir="auto">
+  <a href="https://i.am.ai/roadmap#big-data-engineer-roadmap?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+BigDataEngineer" rel="nofollow">
+      <img src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/big_data_engineer.svg" style="max-width: 100%;">
   </a>
 </p>
-
-## 🚦 Wrap Up
-
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, we will continue to improve this, so you might want to watch/star this repository to revisit.
-
-## 🙌 Contribution
-
-> Have a look at the [contribution docs](./contributing.md) for how to update any of the roadmaps
-
-* Open pull request with improvements
-* Discuss ideas in issues
-* Spread the word
-* Reach out with any feedback
-
-## Supported By
-
-<a href="https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap+SupportedBy" target="_blank"><img alt="AMAI GmbH" src="./images/logos/amai.svg" style="display: inherit;max-width: 150px;"/></a>
-<a href="https://digitalhub-ai.de?utm_source=GitHub&utm_medium=Referral&utm_campaign=AI+Expert+Roadmap" target="_blank"><img alt="AMAI GmbH" src="./images/logos/de-hub.svg" style="display: inherit; max-width: 150px;"/></a>
+<h2 tabindex="-1" dir="auto"><a id="user-content--wrap-up" class="anchor" aria-hidden="true" tabindex="-1" href="#-wrap-up"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚦 总结一下</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您认为任何路线图可以改进，请提交包含任何更新的 PR 并提交任何问题。</font><font style="vertical-align: inherit;">此外，我们将继续改进这一点，因此您可能需要观看/加星这个存储库以重新访问。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--contribution" class="anchor" aria-hidden="true" tabindex="-1" href="#-contribution"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙌 贡献</font></font></h2>
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看</font></font><a href="/AMAI-GmbH/AI-Expert-Roadmap/blob/main/contributing.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解如何更新任何路线图</font></font></p>
+</blockquote>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开拉取请求并进行改进</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论问题中的想法</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">传播这个词</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如有任何反馈请联系我们</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-supported-by" class="anchor" aria-hidden="true" tabindex="-1" href="#supported-by"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持者</font></font></h2>
+<p dir="auto"><a href="https://www.linkedin.com/company/amai-gmbh/?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap+SupportedBy" rel="nofollow"><img alt="阿迈有限公司" src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/logos/amai.svg" style="max-width: 100%;"></a>
+<a href="https://digitalhub-ai.de?utm_source=GitHub&amp;utm_medium=Referral&amp;utm_campaign=AI+Expert+Roadmap" rel="nofollow"><img alt="阿迈有限公司" src="/AMAI-GmbH/AI-Expert-Roadmap/raw/main/images/logos/de-hub.svg" style="max-width: 100%;"></a></p>
+</article></div>
